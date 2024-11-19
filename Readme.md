@@ -16,3 +16,8 @@ JWT_SECRET = your jwt secret key
 ```bash
 npm start
 ```
+
+## Api Documentation:
+```bash
+https://documenter.getpostman.com/view/35302223/2sAYBRFtyk
+```
